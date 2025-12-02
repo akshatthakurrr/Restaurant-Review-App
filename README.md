@@ -1,4 +1,8 @@
-Discover, rate, and review your favorite restaurants
+->Discover, rate, and review your favorite restaurants
+
+
+
+
 User Authentication & Profiles: Secure login/register with JWT or Spring Security, personalized dashboards for reviewers to track their posts and favorites.​
 
 Restaurant Discovery & Search: Advanced search by location, cuisine, or ratings; interactive maps and filters for easy browsing.​
