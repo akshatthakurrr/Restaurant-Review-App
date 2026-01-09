@@ -9,6 +9,6 @@ Restaurant Discovery & Search: Advanced search by location, cuisine, or ratings;
 
 Review & Rating System: Post detailed reviews with star ratings, photos/videos, and comments; real-time aggregation of average scores.​
 
-Social Features: Follow restaurants/users, like/share reviews, and trending feeds to build community engagement.​
+Social Features: Follow restaurants/users,  reviews, and trending feeds to build community engagement.​
 
 Backend Power: Full Spring Boot REST APIs with JPA/Hibernate for database handling, scalable for production deployment.
